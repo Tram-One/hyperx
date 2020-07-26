@@ -1,8 +1,9 @@
-# hyperz
+# @tram-one/hyperx
 
 tagged template string virtual dom builder
 
 Fork of [hyperx](https://github.com/choojs/hyperx)
+
 _The below documentation is from the hyperx repo at the time of forking_
 
 This module is similar to JSX, but provided as a standards-compliant ES6 tagged
