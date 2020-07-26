@@ -1,6 +1,6 @@
 {
   "name": "@tram-one/hyperx",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "tagged template string builder for custom tags",
   "main": "index.js",
   "scripts": {
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tram-One/hyperx-turbo.git"
+    "url": "git+https://github.com/Tram-One/hyperx.git"
   },
   "bugs": {
-    "url": "https://github.com/Tram-One/hyperx-turbo/issues"
+    "url": "https://github.com/Tram-One/hyperx/issues"
   },
-  "homepage": "https://github.com/Tram-One/hyperx-turbo#readme"
+  "homepage": "https://github.com/Tram-One/hyperx#readme"
 }
