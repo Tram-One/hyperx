@@ -1,6 +1,6 @@
 {
-  "name": "hyperz",
-  "version": "4.0.1",
+  "name": "@tram-one/hyperx",
+  "version": "4.0.2",
   "description": "tagged template string builder for custom tags",
   "main": "index.js",
   "scripts": {
@@ -16,12 +16,13 @@
     "template string",
     "template",
     "es6",
-    "hyperx"
+    "hyperx",
+    "hyperz"
   ],
   "author": "substack",
   "license": "BSD",
   "devDependencies": {
-    "covert": "^1.1.0",
+    "covert": "^1.1.1",
     "hyperscript": "^1.4.7",
     "tape": "^4.4.0",
     "virtual-dom": "^2.1.1"
